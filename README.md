@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Nikhil, a final year Physics with Business student at the University of Warwick!
+
+
 
 <!--
 **Nikhil-Khetani/Nikhil-Khetani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
