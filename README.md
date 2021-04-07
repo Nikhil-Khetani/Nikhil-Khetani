@@ -3,18 +3,29 @@ Please feel free to contact me for regarding any questions you may have about my
 Please check out my website: www.techoftomorrow.co.uk !
 
 ---
-#### 🏁 Hackathons
-
-
 #### 📜 IBM Coursework Projects
+- **[Abalones](../../../IBM-EDA-for-ML)**
+- **[Heating Loads of Buildings](../../../IBM-Supervised-Learning-Regression)**
+- **[Credit Card Fraud](../../../Credit-Card-Fraud-Classification)**
+
+#### 💡 Warwick AI Projects
+- **[Project #NOFAKES](../../../-nofakes-project)**
 
 #### 🛠️ Useful Tools and Applications
+- **[Instagram Feed Drawing Tool](../../../Instagram-Feed-Drawing-Tool)**
+- **[Array 3D](../../../Array3D)**
+- **[Sudoku Solver](../../../Sudoku-Solver)**
 
 #### 🕹️ Games (And Some Reinforcement Learning)
 - **[Chess](../../../Chess)**
 - **[2048](../../../2048)**
 - **[Angry Cars](../../../Angry-Cars-v2)**
 - **[Dinosaur Game](../../../Dino-RL)**
+
+#### 🏁 Hackathons
+- **[Warwick Hackathon - Project Pluteus 2.0](../../../../jjethwa13/WarwickHackathon)**
+- **[Reply Code Challenge](../../../ReplyCodeChallenge)
+
 
 <!--
 **Nikhil-Khetani/Nikhil-Khetani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
