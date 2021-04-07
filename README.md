@@ -27,6 +27,7 @@ Please check out my website: www.techoftomorrow.co.uk !
 - **[Reply Code Challenge](../../../ReplyCodeChallenge)**
 
 #### 😀 Just For Fun
+- **[Quantum Machine Learning Test](../../../Quantum-Machine-Learning-Test)**
 <!--
 **Nikhil-Khetani/Nikhil-Khetani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
