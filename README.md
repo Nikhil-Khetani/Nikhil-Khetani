@@ -3,12 +3,18 @@ Please feel free to contact me for regarding any questions you may have about my
 Please check out my website: www.techoftomorrow.co.uk !
 
 ---
-##### 🏁 Hackathons
+#### 🏁 Hackathons
 
-##### 📜 IBM Coursework Projects
 
-##### 🕹️ Games (And Some Reinforcement Learning)
+#### 📜 IBM Coursework Projects
 
+#### 🛠️ Useful Tools and Applications
+
+#### 🕹️ Games (And Some Reinforcement Learning)
+- **[Chess](../../../Chess)**
+- **[2048](../../../2048)**
+- **[Angry Cars](../../../Angry-Cars-v2)**
+- **[Dinosaur Game](../../../Dino-RL)**
 
 <!--
 **Nikhil-Khetani/Nikhil-Khetani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
