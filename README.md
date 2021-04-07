@@ -5,9 +5,9 @@ Please check out my website: www.techoftomorrow.co.uk !
 ---
 ##### 🏁 Hackathons
 
-##### IBM Coursework Projects
+##### 📜 IBM Coursework Projects
 
-##### Games (And Some Reinforcement Learning)
+##### 🕹️ Games (And Some Reinforcement Learning)
 
 
 <!--
