@@ -9,7 +9,7 @@ Please check out my website: www.techoftomorrow.co.uk !
 - **[Credit Card Fraud](../../../Credit-Card-Fraud-Classification)**: *Used classification algorithms such as logistic regression, SVMs, decision trees/random forest and techniques such as bagging and boosting*
 
 #### 💡 Warwick AI Projects
-- **[Project #NOFAKES](../../../-nofakes-project)**
+- **[Project #NOFAKES](../../../../peterfazekas1999/-nofakes-project )**
 
 #### 🛠️ Useful Tools and Applications
 - **[Instagram Feed Drawing Tool](../../../Instagram-Feed-Drawing-Tool)**
