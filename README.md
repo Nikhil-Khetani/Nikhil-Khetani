@@ -4,9 +4,9 @@ Please check out my website: www.techoftomorrow.co.uk !
 
 ---
 #### 📜 IBM Coursework Projects
-- **[Abalones](../../../IBM-EDA-for-ML)**
-- **[Heating Loads of Buildings](../../../IBM-Supervised-Learning-Regression)**
-- **[Credit Card Fraud](../../../Credit-Card-Fraud-Classification)**
+- **[Abalones](../../../IBM-EDA-for-ML)**: *Exploratory Data Analysis*
+- **[Heating Loads of Buildings](../../../IBM-Supervised-Learning-Regression)**: *Compared regressions such as linear, polynomial, ridge, lasso and elastic net regression*
+- **[Credit Card Fraud](../../../Credit-Card-Fraud-Classification)**: *Used classification algorithms such as logistic regression, SVMs, decision trees/random forest and techniques such as bagging and boosting*
 
 #### 💡 Warwick AI Projects
 - **[Project #NOFAKES](../../../-nofakes-project)**
