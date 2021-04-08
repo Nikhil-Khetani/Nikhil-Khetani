@@ -23,7 +23,7 @@ Please check out my website: [**Tech of Tomorrow**](https://www.techoftomorrow.c
 - **[Dinosaur Game](../../../Dino-RL)**
 
 #### 🏁 Hackathons
-- **[Warwick Hackathon - Project Pluteus 2.0](../../../../jjethwa13/WarwickHackathon)**
+- **[Warwick Hackathon - Project Plutus 2.0](../../../../jjethwa13/WarwickHackathon)**
 - **[Reply Code Challenge](../../../ReplyCodeChallenge)**
 
 #### 😀 Just For Fun
