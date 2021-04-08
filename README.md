@@ -6,7 +6,7 @@ Please check out my website: [**Tech of Tomorrow**](https://www.techoftomorrow.c
 #### 📜 IBM Coursework Projects
 - **[Abalones](../../../IBM-EDA-for-ML)**: *Exploratory data analysis and dataset transformations*
 - **[Heating Loads of Buildings](../../../IBM-Supervised-Learning-Regression)**: *Comparison of regressions such as linear, polynomial, ridge, lasso and elastic net regression*
-- **[Credit Card Fraud](../../../Credit-Card-Fraud-Classification)**: *Comparison of classification algorithms such as logistic regression, SVMs, decision trees/random forest utilising techniques such as bagging and boosting, whilst dealing with a heavily imbalanced dataset*
+- **[Credit Card Fraud](../../../Credit-Card-Fraud-Classification)**: *Comparison of classification algorithms such as logistic regression, SVMs, decision trees/random forest, whilst dealing with a heavily imbalanced dataset*
 
 #### 💡 Warwick AI Projects
 - **[Project #NOFAKES](../../../../peterfazekas1999/-nofakes-project )**
