@@ -9,7 +9,7 @@ Please check out my website: [**Tech of Tomorrow**](https://www.techoftomorrow.c
 - **[Credit Card Fraud](../../../Credit-Card-Fraud-Classification)**: *Comparison of classification algorithms such as logistic regression, SVMs, decision trees/random forest, whilst dealing with a heavily imbalanced dataset*
 - **[NIPS Conference Papers Word Clustering](../../../NIPS-Conference-Papers-Word-Clustering)**: *Comparison of unsupervised clustering algorithms such as Kmeans++ clustering, heirarchical agglomerate clustering and density-based spatial clustering of applications with noise (DBSCAN)*
 - **[Car Image Generation](../../../Car-Image-Generation)**: *Comparison of GANs and VAEs to generate images of cars*
-- **[Tesla Share Price Prediction](../../../Tesla-Stock-Price-Prediction)**: *Using RNNs with LSTM layers to predict future share prices of Tesla Inc*
+- **[Tesla Share Price Prediction](../../../Tesla-Stock-Price-Predictor)**: *Using RNNs with LSTM layers to predict future share prices of Tesla Inc*
 
 #### 💡 Warwick AI Projects
 - **[Project #NOFAKES](../../../../peterfazekas1999/-nofakes-project )**
