@@ -15,7 +15,7 @@ Please check out my website: [**Tech of Tomorrow**](https://www.techoftomorrow.c
 - **[Project #NOFAKES](../../../../peterfazekas1999/-nofakes-project )**
 
 #### 🛠️ Useful Tools and Applications
-- **[Instagram Feed Drawing Tool](../../../Instagram-Feed-Drawing-Tool)**
+- **[Instagram Feed Drawing Tool](../../../Instagram-Feed-Drawing-Tool)**: *A tool for creating continuous tiled pictures across *
 - **[Array 3D](../../../Array3D)**
 - **[Sudoku Solver](../../../Sudoku-Solver)**
 
