@@ -15,8 +15,8 @@ Please check out my website: [**Tech of Tomorrow**](https://www.techoftomorrow.c
 - **[Project #NOFAKES](../../../../peterfazekas1999/-nofakes-project )**
 
 #### 🛠️ Useful Tools and Applications
-- **[Instagram Feed Drawing Tool](../../../Instagram-Feed-Drawing-Tool)**: *A tkinter Python application for creating continuous tiled pictures across an instagram profile*
-- **[Array 3D](../../../Array3D)**
+- **[Instagram Feed Drawing Tool](../../../Instagram-Feed-Drawing-Tool)**: *A tkinter Python application for creating continuous tiled pictures across an Instagram profile*
+- **[Array 3D](../../../Array3D)**: *A simple Python script for visualizing the dimensions of a 3D array for use in teaching*
 - **[Sudoku Solver](../../../Sudoku-Solver)**
 
 #### 🕹️ Games (And Some Reinforcement Learning)
