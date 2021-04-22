@@ -12,7 +12,7 @@ Please check out my website: [**Tech of Tomorrow**](https://www.techoftomorrow.c
 <!-- **[Tesla Share Price Prediction](../../../Tesla-Stock-Price-Predictor)**: *Using RNNs with LSTM layers to predict future share prices of Tesla Inc*-->
 
 #### 💡 Warwick AI Projects
-- **[Project #NOFAKES](../../../../peterfazekas1999/-nofakes-project )**
+- **[Project #NOFAKES](../../../../peterfazekas1999/-nofakes-project )**: *Using computer vision and machine learning techniques to identify photoshopped images and then predict and reverse an optical flow in order to estimate what the original would have looked like*
 
 #### 🛠️ Useful Tools and Applications
 - **[Instagram Feed Drawing Tool](../../../Instagram-Feed-Drawing-Tool)**: *A tkinter Python application for creating continuous tiled pictures across an Instagram profile*
