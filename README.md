@@ -30,7 +30,7 @@ Please check out my website: [**Tech of Tomorrow**](https://www.techoftomorrow.c
 - **[Reply Code Challenge](../../../ReplyCodeChallenge)**
 
 #### 😀 Just For Fun
-- **[Quantum Machine Learning Test](../../../Quantum-Machine-Learning-Test)**
+- **[Quantum Machine Learning Test](../../../Quantum-Machine-Learning-Test)**: *Testing out the new Qiskit machine learning module (that integrates with PyTorch)*
 <!--
 **Nikhil-Khetani/Nikhil-Khetani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
