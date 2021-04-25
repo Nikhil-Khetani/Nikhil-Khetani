@@ -31,6 +31,7 @@ Please check out my website: [**Tech of Tomorrow**](https://www.techoftomorrow.c
 
 #### 😀 Just For Fun
 - **[Quantum Machine Learning Test](../../../Quantum-Machine-Learning-Test)**: *Testing out the new Qiskit machine learning module (that integrates with PyTorch)*
+- **[Blockchain Example](../../../Blockchain-Example)**: *My Python version of a what several functions in a blockchain could look like*
 <!--
 **Nikhil-Khetani/Nikhil-Khetani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
