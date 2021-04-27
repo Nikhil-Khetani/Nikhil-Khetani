@@ -23,7 +23,7 @@ Please check out my website: [**Tech of Tomorrow**](https://www.techoftomorrow.c
 - **[Chess](../../../Chess)**
 - **[2048](../../../2048)**: *A Python version of 2048 with several versions of reinforcement learning algorithms / Monte Carlo search trees to play it* 
 - **[Angry Cars](../../../Angry-Cars-v2)**: *A racing game built using C#, Unity and the AirConsole API allowing players to control cars using their phones*
-- **[Dinosaur Game](../../../Dino-RL)**
+- **[Dinosaur Game](../../../Dino-RL)** *A Python version of Google Chromes no-connection dinosaur game with a reinforcement learning algorithm to play it*
 
 #### 🏁 Hackathons
 - **[Warwick Hackathon - Project Plutus 2.0](../../../../jjethwa13/WarwickHackathon)**
