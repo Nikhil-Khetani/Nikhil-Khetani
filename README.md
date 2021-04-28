@@ -20,7 +20,7 @@ Please check out my website: [**Tech of Tomorrow**](https://www.techoftomorrow.c
 - **[Sudoku Solver](../../../Sudoku-Solver)** *An N by N sudoku solver*
 
 #### 🕹️ Games (And Some Reinforcement Learning)
-- **[Chess](../../../Chess)**
+- **[Chess](../../../Chess)**: *A pass-and-play Python version of Chess built from scratch*
 - **[2048](../../../2048)**: *A Python version of 2048 with several versions of reinforcement learning algorithms / Monte Carlo search trees to play it* 
 - **[Angry Cars](../../../Angry-Cars-v2)**: *A racing game built using C#, Unity and the AirConsole API allowing players to control cars using their phones*
 - **[Dinosaur Game](../../../Dino-RL)** *A Python version of Google Chromes no-connection dinosaur game with a reinforcement learning algorithm to play it*
