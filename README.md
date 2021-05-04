@@ -26,7 +26,7 @@ Please check out my website: [**Tech of Tomorrow**](https://www.techoftomorrow.c
 - **[Dinosaur Game](../../../Dino-RL)** *A Python version of Google Chromes no-connection dinosaur game with a reinforcement learning algorithm to play it*
 
 #### 🏁 Hackathons
-- **[Warwick Hackathon - Project Plutus 2.0](../../../../jjethwa13/WarwickHackathon)**
+- **[Warwick Hackathon - Project Plutus 2.0](../../../../jjethwa13/WarwickHackathon)**: *Financial mathematics, portfolio optimisation etc*
 - **[Reply Code Challenge](../../../ReplyCodeChallenge)**
 
 #### 😀 Just For Fun
