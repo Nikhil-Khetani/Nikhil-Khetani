@@ -27,7 +27,7 @@ Please check out my website: [**Tech of Tomorrow**](https://www.techoftomorrow.c
 
 #### 🏁 Hackathons
 - **[Warwick Hackathon - Project Plutus 2.0](../../../../jjethwa13/WarwickHackathon)**: *Financial mathematics, portfolio optimisation etc*
-- **[Reply Code Challenge](../../../ReplyCodeChallenge)**
+- **[Reply Code Challenge](../../../ReplyCodeChallenge)**: *Our solution to the Reply Code Challenge 2021*
 
 #### 😀 Just For Fun
 - **[Quantum Machine Learning Test](../../../Quantum-Machine-Learning-Test)**: *Testing out the new Qiskit machine learning module (that integrates with PyTorch)*
