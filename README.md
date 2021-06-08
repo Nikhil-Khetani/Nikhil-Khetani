@@ -15,6 +15,7 @@ Please check out my website: [**Tech of Tomorrow**](https://www.techoftomorrow.c
 - **[Project #NOFAKES](../../../../peterfazekas1999/-nofakes-project )**: *Using computer vision and machine learning techniques to identify photoshopped images and then predict and reverse an optical flow in order to estimate what the original would have looked like*
 
 #### 🛠️ Useful Tools and Applications
+- **[Strategy Backtesting](../../../Strategy-Backtesting)**: *A strategy backtesting system which can be utilised for any asset class with historical data on yahoo finance*
 - **[Instagram Feed Drawing Tool](../../../Instagram-Feed-Drawing-Tool)**: *A tkinter Python application for creating continuous tiled pictures across an Instagram profile*
 - **[Array 3D](../../../Array3D)**: *A simple Python script for visualizing the dimensions of a 3D array for use in teaching*
 - **[Sudoku Solver](../../../Sudoku-Solver)** *An N by N sudoku solver*
