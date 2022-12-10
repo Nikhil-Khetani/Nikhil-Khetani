@@ -1,6 +1,9 @@
-### Hi there, I'm Nikhil, a final year Physics with Business student at the University of Warwick
+### Hi there,
 Please feel free to contact me for regarding any questions you may have about my code, possible collaborations or anything else you feel might be interesting!
 Please check out my website: [**Tech of Tomorrow**](https://www.techoftomorrow.co.uk)!
+
+| <a href="https://github.com/Nikhil-Khetani/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikhil-Khetani&show_icons=true&include_all_commits=true&hide_border=true" alt="Nikhil's github stats" /></a> | <a href="https://github.com/Nikhil-Khetani/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Khetani&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ---
 #### 📜 IBM Coursework Projects
