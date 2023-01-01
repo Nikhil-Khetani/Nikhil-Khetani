@@ -1,5 +1,5 @@
 ### Hi there,
-Please feel free to contact me for regarding any questions you may have about my code, possible collaborations or anything else you feel might be interesting!
+Please feel free to contact me with ideas, questions or anything else interesting!
 
 | <a href="https://github.com/Nikhil-Khetani/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nikhil-Khetani&show_icons=true&include_all_commits=true&hide_border=true" alt="Nikhil's github stats" /></a> | <a href="https://github.com/Nikhil-Khetani/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Khetani&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
