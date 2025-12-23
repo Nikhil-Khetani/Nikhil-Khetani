@@ -5,6 +5,9 @@ Please feel free to contact me with ideas, questions or anything else interestin
 | ------------- | ------------- |
 
 ---
+#### Recent Projects
+- **[Trakt-Plugin](../../../trakt-plugin)**: *Obsidian Plugin to be able to sync TV show watch progress from Trakt with your obsidian notes*
+
 #### 📜 IBM Coursework Projects
 - **[Abalones](../../../IBM-EDA-for-ML)**: *Exploratory data analysis and dataset transformations*
 - **[Heating Loads of Buildings](../../../IBM-Supervised-Learning-Regression)**: *Comparison of regressions such as linear, polynomial, ridge, lasso and elastic net regression*
